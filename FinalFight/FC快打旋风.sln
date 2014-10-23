@@ -1,0 +1,10 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "FC快打旋风", "FC快打旋风.dsp", "{C68D9ED3-8D96-412B-853C-F4BF15ED891C}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
