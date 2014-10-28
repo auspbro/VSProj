@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeNumber", "PrimeNumber\PrimeNumber.vcxproj", "{9EAABD69-9000-4893-B674-8E62C9B35D26}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimerNumberOptimize", "..\PrimerNumberOptimize\PrimerNumberOptimize.vcxproj", "{B07DF02F-FB75-413A-83B4-7535BBABF262}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimerNumOpt2", "..\PrimerNumOpt2\PrimerNumOpt2.vcxproj", "{FD298F8D-1564-492D-B1D2-D76D06A4FF5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +9,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9EAABD69-9000-4893-B674-8E62C9B35D26}.Debug|Win32.ActiveCfg = Debug|Win32
-		{9EAABD69-9000-4893-B674-8E62C9B35D26}.Debug|Win32.Build.0 = Debug|Win32
-		{9EAABD69-9000-4893-B674-8E62C9B35D26}.Release|Win32.ActiveCfg = Release|Win32
-		{9EAABD69-9000-4893-B674-8E62C9B35D26}.Release|Win32.Build.0 = Release|Win32
-		{B07DF02F-FB75-413A-83B4-7535BBABF262}.Debug|Win32.ActiveCfg = Debug|Win32
-		{B07DF02F-FB75-413A-83B4-7535BBABF262}.Debug|Win32.Build.0 = Debug|Win32
-		{B07DF02F-FB75-413A-83B4-7535BBABF262}.Release|Win32.ActiveCfg = Release|Win32
-		{B07DF02F-FB75-413A-83B4-7535BBABF262}.Release|Win32.Build.0 = Release|Win32
+		{FD298F8D-1564-492D-B1D2-D76D06A4FF5A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD298F8D-1564-492D-B1D2-D76D06A4FF5A}.Debug|Win32.Build.0 = Debug|Win32
+		{FD298F8D-1564-492D-B1D2-D76D06A4FF5A}.Release|Win32.ActiveCfg = Release|Win32
+		{FD298F8D-1564-492D-B1D2-D76D06A4FF5A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

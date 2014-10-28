@@ -7,7 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int i, j;
-	int n;
+	//int n;
 	long double k;
 	
 	//printf("Please input a integer number here:");
@@ -24,10 +24,10 @@ int _tmain(int argc, _TCHAR* argv[])
 				break;
 		}
 
-		if ( i < k )
-		printf("%d is a not a primer.\n", n);
-	else
-		printf("%d is a priemer.\n", n);
+		if ( j < k )
+		printf("%d is a not a primer.\n", i);
+		else
+		printf("%d is a priemer.\n", i);
 	}
 
 
