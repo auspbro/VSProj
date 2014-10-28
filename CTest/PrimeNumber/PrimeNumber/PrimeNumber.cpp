@@ -23,6 +23,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		printf("%d is a not a primer.\n", n);
 	else
 		printf("%d is a priemer.\n", n);
+	getchar();
 	return 0;
 }
 
