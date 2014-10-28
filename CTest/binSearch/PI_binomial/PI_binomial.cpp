@@ -11,13 +11,13 @@ int _tmain(int argc, _TCHAR* argv[])
 	double sum = 0;
 	double n = 1.0;
 	double term = 1.0;
-	for ( ; fabs(term) >= 1e-6; sign = -sign, n = n + 2, term = sign / n )
+	for ( ; fabs(term) >= 1e-8; sign = -sign, n = n + 2, term = sign / n )
 	{
 		sum = sum + term;
 	}
 
 	sum = sum * 4;
-	printf("PI=%10.8f\n", sum);
+	printf("PI=%17.15f\n", sum);
 	return 0;
 }
 
