@@ -19,11 +19,12 @@ int _tmain(int argc, _TCHAR* argv[])
 			break;
 
 	}
+
 	if ( i < n )
 		printf("%d is a not a primer.\n", n);
 	else
 		printf("%d is a priemer.\n", n);
-	getchar();
+	//getchar();
 	return 0;
 }
 
