@@ -6,23 +6,23 @@
 
 int gcd(int a, int b)		//自定义函数求两数的最大公约数
 {
-	int temp;
+	int temp;				//定义局部整型变量
 
-	if (a < b)
+	if (a < b)				//通过比较求两数中最大值和最小值
 	{
 		temp = a; 
 	    a = b;
 		b = temp;
 	}
 
-	while (b != 0)
+	while (b != 0)			//通过循环求两数的余数，直到余数为0
 	{
 		temp = a % b;
 		a = b;
 		b = temp;
 	}
 
-	return a;
+	return a;				//返回最大公约数到调用函数处
 }
 
 int lcm(int a, int b)
