@@ -1,6 +1,6 @@
-// GCD_LCM_Func1.cpp : �������̨Ӧ�ó������ڵ㡣
-//շת�����������ŷ����·���
-//ʹ�ú����ݹ���÷����������������Լ��(Greatest Common Divisor)����С������(Least Common Multiple)
+﻿// GCD_LCM_Func1.cpp : 定义控制台应用程序的入口点。
+//辗转相除法（又名欧几里德法）
+//使用函数递归调用法求两个整数的最大公约数(Greatest Common Divisor)和最小公倍数(Least Common Multiple)
 //
 
 #include "stdafx.h"
