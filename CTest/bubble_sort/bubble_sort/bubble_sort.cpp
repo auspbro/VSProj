@@ -1,5 +1,5 @@
-// bubble_sort.cpp : 定义控制台应用程序的入口点。
-// 冒泡排序
+﻿// bubble_sort.cpp : 瀹氫箟鎺у埗鍙板簲鐢ㄧ▼搴忕殑鍏ュ彛鐐广€?
+// 鍐掓场鎺掑簭
 
 #include "stdafx.h"
 #define SIZE 10
